@@ -35,8 +35,5 @@ pip install Pillow
 
 python vlc-Gesture-Control.py
 ```
-## License & Copyright
-© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
 
-Licensed under the [MIT License](LICENSE)
 
